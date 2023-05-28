@@ -1,17 +1,18 @@
 Olá meu nome é Davi :D
 
-man_technologistcomputer Apenas mais um desenvolvedor focado em web, ainda estou estudando, mas já consigo fazer alguns projetinhos bacanas. globe_with_meridiansbulb
+Apenas mais um desenvolvedor focado em web, ainda estou estudando, mas já consigo fazer alguns projetinhos bacanas. 
 Tecnologias que eu sei usar:
 
-memo HTML
-art CSS
-mag Javascript
-gem Ruby
-steam_locomotive Ruby on Rails
-octopus Git e Github
+HTML
+CSS
+Javascript
+Ruby
+Ruby on Rails
+Git e Github
+
 Tecnologias que estou estudando:
 
-atom_symbol React
-man_technologist Heroku
+React
+Heroku
 
-Atualmente, desenvolvo em um notebook rodando o Fedora, e escrevo meus códigos no Neovim. computersparkles
+Atualmente, desenvolvo em um notebook rodando o Fedora, e escrevo meus códigos no Neovim.
