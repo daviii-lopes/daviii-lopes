@@ -1,3 +1,4 @@
+![stats](https://github-readme-stats.vercel.app/api?username=daviii-lopes&theme=rose_pine)  
 Olá meu nome é Davi :D
 
 Apenas mais um desenvolvedor focado em web, ainda estou estudando, mas já consigo fazer alguns projetinhos bacanas. 
